@@ -5,7 +5,7 @@
 ## LISTA:
 ### `| 🎥 Título                             | 🔗 Enlace          |📜Como seguir el hilo de la historia`
 ### |---------------------------------------|---------------------|----------------|
-### | GTA V ROLEPLAY \#17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Descarga aquí](https://ejemplo.com/marte)                       | Empezar a ver después de llegar al minuto 19:47 del video ["SOMOS AGENTES DE TRÁFICO || GTA V ROLEPLAY #17"](https://www.youtube.com/watch?v=YHXHopKmZ2Y&list=PLqR2gNUP1FwUWC0kw9WUIHSTk-twkoIZ_&index=18)          
+### | GTA V ROLEPLAY \#17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Descarga aquí](https://ejemplo.com/marte)                       | Empezar a ver después de llegar al minuto 19:47 del video [#17 de Auron](https://www.youtube.com/watch?v=YHXHopKmZ2Y&list=PLqR2gNUP1FwUWC0kw9WUIHSTk-twkoIZ_&index=18)          
 ### | GTA V ROLEPLAY \#18                   |
 ### | GTA V ROLEPLAY \#19                   |
 ### | GTA V ROLEPLAY \#20                   |
