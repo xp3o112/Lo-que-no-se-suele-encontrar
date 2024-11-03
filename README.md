@@ -1,9 +1,9 @@
-# Lo que no sueles encontrar
+# 🎬 Lo que no sueles encontrar
 
-Bienvenidos a este repositorio. Aquí encontrarás una colección de videos que no son fáciles de encontrar en internet.  
+🌟 **Bienvenidos** a este repositorio. Aquí encontrarás una colección de videos, sobre todo enlaces a peliculas y o series que no son fáciles de encontrar en internet en BUENA CALIDAD en CASTELLANO, ni siquiera por sitios como [playdede.eu](https://playdede.eu/) o [dominioshd](https://dominioshdfull.com/).  
 Cada categoría contiene enlaces a videos específicos que podrían interesarte.
 
-## Categorías de videos
-- [Documentales poco comunes](./documentales.md)
-- [Cine independiente](./cine-independiente.md)
-- [Clásicos olvidados](./clasicos-olvidados.md)
+## 📂 Categorías
+- [GTA V ROLEPLAY AURON SPAINRP2020](./auron2020.md)
+- [LOS DESCENDIENTES 1 HD](./descendientes.md)
+- [BIBI BLOCKSBERG HD](./bibiblocksberg.md)
