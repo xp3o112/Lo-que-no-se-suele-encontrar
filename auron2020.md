@@ -5,7 +5,7 @@
 ## LISTA:
 ### | 🎥 Título                            | 🔗 Enlace
 ### |---------------------------------------|---------------------------------------|----------------|
-### | GTA V ROLEPLAY \#17                   | [Descarga aquí](https://ejemplo.com/marte) | hola           |
+### | GTA V ROLEPLAY \#17                   | [Descarga aquí](https://ejemplo.com/marte)                       | hola           |
 ### | GTA V ROLEPLAY \#18                   |
 ### | GTA V ROLEPLAY \#19                   |
 ### | GTA V ROLEPLAY \#20                   |
