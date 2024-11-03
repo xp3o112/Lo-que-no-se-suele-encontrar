@@ -3,10 +3,10 @@
 > 🎥 **Nota**: Esta es la recopilacion maxima que he podido encontrar de directos completos de spainrp2020 de Auron, algunos en mejor calidad que otros.
 
 ## LISTA:
-| 🎥 Título                            | 🔗 Enlace
-|---------------------------------------|---------------------------------------|----------------|
-| GTA V ROLEPLAY \#17                   | [Ver aquí](https://ejemplo.com/marte) | hola           |
-| GTA V ROLEPLAY \#18                   |
+### | 🎥 Título                            | 🔗 Enlace
+### |---------------------------------------|---------------------------------------|----------------|
+### | GTA V ROLEPLAY \#17                   | [Ver aquí](https://ejemplo.com/marte) | hola           |
+### | GTA V ROLEPLAY \#18                   |
 | GTA V ROLEPLAY \#19                   |
 | GTA V ROLEPLAY \#20                   |
 | GTA V ROLEPLAY \#21                   |
