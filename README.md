@@ -1,6 +1,6 @@
 # 🎬 Lo que no sueles encontrar
 
-🌟 **Bienvenidos** a este repositorio. Aquí encontrarás una colección de videos, sobre todo enlaces a peliculas y o series que no son fáciles de encontrar en internet en BUENA CALIDAD en CASTELLANO, ni siquiera por sitios como [playdede.eu](https://playdede.eu/) o [dominioshd](https://dominioshdfull.com/).  
+🌟 **Bienvenidos** a este repositorio. Aquí encontrarás una colección de videos, sobre todo enlaces a peliculas y o series que no son fáciles de encontrar en internet en BUENA CALIDAD en CASTELLANO, ni siquiera por sitios como [playdede](https://playdede.eu/) o [dominioshdfull](https://dominioshdfull.com/).  
 Cada categoría contiene enlaces a videos específicos que podrían interesarte.
 
 ## 📂 Categorías
